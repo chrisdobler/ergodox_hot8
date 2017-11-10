@@ -2,6 +2,7 @@
 #define CONFIG_H_
 
 #include "../../config.h"
+#include "mousemap.h"
 
 #undef TAPPING_TERM
 #define TAPPING_TERM 150
